@@ -3,7 +3,6 @@ root = Tk()
 root.geometry("744x354")
 root.configure(bg='grey')
 root.title("Student management system develop by Emon Joy")
-# root.resizable(False, False)
 
 # Saving the submitted value as a txt file in the current program directory.
 def store():
